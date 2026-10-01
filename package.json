@@ -1,0 +1,12 @@
+{
+  "name": "time-pass-ui",
+  "version": "1.0.0",
+  "description": "Interactive WebGL 3D Portfolio experience for Vinish Rexson",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": ["webgl", "threejs", "portfolio", "ui", "3d", "interactive"],
+  "author": "Vinish Rexson",
+  "license": "MIT"
+}
